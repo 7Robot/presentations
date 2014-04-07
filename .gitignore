@@ -25,3 +25,7 @@
 *.maf
 *.mtc
 *.mtc0
+*.pdf
+
+# dossiers
+club_2013-2014/videos
